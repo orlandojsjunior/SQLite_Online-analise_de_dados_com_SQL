@@ -27,4 +27,4 @@ No último passo, vamos explorar a aplicação do SQL em diversos contextos de p
 - Calculando porcentagens de vendas
 - Combine diversas consultas para responder duvidas da area de negocio
 
-### **[Documentação SQLite]**(https://www.sqlite.org/docs.html)
+### **[Documentação SQLite](https://www.sqlite.org/docs.html)**
