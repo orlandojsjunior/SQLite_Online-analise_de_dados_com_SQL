@@ -34,6 +34,7 @@ SELECT COUNT(*) as Qtd_Vendas  from vendas;
 
 
 
+
 -- Limite de registros
 
 
