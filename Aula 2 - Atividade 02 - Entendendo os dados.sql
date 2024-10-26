@@ -49,7 +49,8 @@ from vendas;
 
 SELECT *
 FROM vendas
-LIMIT 5;
+LIMIT
+5;
 
 
 

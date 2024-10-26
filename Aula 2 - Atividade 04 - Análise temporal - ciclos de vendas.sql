@@ -25,7 +25,8 @@ Para conferir se a consulta já está funcionando como esperamos, vamos digitar 
 
 SELECT strftime("%Y", data_venda)
 FROM vendas
-LIMIT 5;
+LIMIT
+5;
 
 
 /*
