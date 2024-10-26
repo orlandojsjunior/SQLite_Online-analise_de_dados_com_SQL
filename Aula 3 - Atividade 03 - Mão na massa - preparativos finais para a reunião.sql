@@ -18,7 +18,7 @@ ORDER BY "Ano",
 /*
 Obs:
 
-Pedi pro Copilot explica a query
+Pedi para Copilot explica a query
 
 
 Consulta SQL Explicada:
@@ -51,9 +51,6 @@ corresponde a categoria_id na tabela produtos.
 
 Condições de Filtro:
 
-sql
-
-Copiar
 WHERE strftime("%m", v.data_venda) = "11"
 WHERE strftime("%m", v.data_venda) = "11": Filtra para incluir apenas os registros onde o mês extraído de data_venda na tabela 
 vendas é novembro ("11").
