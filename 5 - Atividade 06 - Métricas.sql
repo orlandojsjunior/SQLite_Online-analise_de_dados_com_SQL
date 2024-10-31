@@ -2,8 +2,9 @@
 
 
 /*
-Uma CTE (Common Table Expression), ou Expressão de Tabela Comum, é um recurso do SQL que permite criar tabelas temporárias para simplificar consultas complexas. 
-Basicamente, é como se você criasse uma tabela virtual que só existe durante a execução da consulta. Isso torna o código mais legível e organizado.
+Uma CTE (Common Table Expression), ou Expressão de Tabela Comum, é um recurso do SQL que permite criar tabelas temporárias para 
+simplificar consultas complexas. Basicamente, é como se você criasse uma tabela virtual que só existe durante a execução da consulta. 
+Isso torna o código mais legível e organizado.
 */
 
 
@@ -31,7 +32,6 @@ Vendas_Atual AS (
         GROUP BY Ano
     )
 )
-
 -- Selecionando a média de vendas anteriores, as vendas atuais e a porcentagem de variação
 SELECT 
     mva.Media_Qtd_Vendas,  -- Média da quantidade de vendas de novembro dos anos anteriores (excluindo 2022)
