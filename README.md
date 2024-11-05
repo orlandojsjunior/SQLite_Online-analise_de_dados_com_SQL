@@ -26,3 +26,5 @@ No último passo, vamos explorar a aplicação do SQL em diversos contextos de p
 - Crie um relatório de resultados da analise
 - Calculando porcentagens de vendas
 - Combine diversas consultas para responder duvidas da area de negocio
+- 
+### **[Documentação SQLite](https://www.sqlite.org/docs.html)**
